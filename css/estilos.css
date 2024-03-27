@@ -1,0 +1,17 @@
+.row
+{
+    background-color: gold;
+    margin: 10px;
+    justify-content: center;
+    padding: 10px;
+}
+.card
+{
+    margin: 10px;;
+}
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
